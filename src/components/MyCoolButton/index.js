@@ -9,7 +9,7 @@ export function MyCoolButton  (props) {
       //alert(props.comment);
     }
   return (
-  <div>
+  <div className="coolButton">
      <span style={css}>{props.buttonName ? props.buttonName : 'Default ЛАГ Товч'}</span><br/>
      <input 
      className = "myCoolButton" 

@@ -1,8 +1,16 @@
 .myCoolButton {
   width: 250px;
-  height: 50px;
+  height: 30px;
   font-size: 18px;
+  margin: 10px auto;
 }
 .coolText {
   color: red;
+}
+.coolButton {
+  width: 400px;
+  margin-left: 50px;
+  margin-bottom: 50px;
+  margin-top: 10px;
+  border: 1px solid white;
 }
